@@ -4,6 +4,11 @@
 
 This project consists of a frontend and a backend, each with its own dependencies. The following instructions will guide you through the process of setting up and running the application.
 
+
+## Video Explanation
+
+<a> https://drive.google.com/file/d/187Gtigvy-4nx0VwBmnHI3rLBzgWbzmxN/view?usp=sharing </a>
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/en/) (includes npm)
